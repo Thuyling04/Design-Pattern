@@ -1,0 +1,6 @@
+adapter\CreditCardPayment.class
+adapter\PaymentProcessor.class
+adapter\PaymentInterface.class
+adapter\CashPayment.class
+adapter\Client.class
+adapter\PaymentAdapter.class
